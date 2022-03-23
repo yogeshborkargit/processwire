@@ -1,2 +1,4 @@
 
-site/assets/sessions/
+site/assets/logs/exceptions.txt
+site/assets/logs/messages.txt
+site/assets/sessions/sess_*
