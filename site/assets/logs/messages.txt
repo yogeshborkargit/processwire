@@ -1,0 +1,7 @@
+2022-03-23 01:14:20	guest	http://localhost/processwire-production/	Added 'filesize' to DB schema for 'images' (FieldtypeImage)
+2022-03-23 01:14:20	guest	http://localhost/processwire-production/	Added 'created_users_id' to DB schema for 'images' (FieldtypeImage)
+2022-03-23 01:14:20	guest	http://localhost/processwire-production/	Added 'modified_users_id' to DB schema for 'images' (FieldtypeImage)
+2022-03-23 01:14:20	guest	http://localhost/processwire-production/	Added 'filedata' to DB schema for 'images' (FieldtypeImage)
+2022-03-23 01:14:20	guest	http://localhost/processwire-production/	Added 'width' to DB schema for 'images' (FieldtypeImage)
+2022-03-23 01:14:20	guest	http://localhost/processwire-production/	Added 'height' to DB schema for 'images' (FieldtypeImage)
+2022-03-23 01:14:20	guest	http://localhost/processwire-production/	Added 'ratio' to DB schema for 'images' (FieldtypeImage)
